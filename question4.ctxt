@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=question4
+comment1.params=str
+comment1.target=boolean\ isPalindrome(java.lang.String)
+comment2.params=text\ forward\ backward
+comment2.target=boolean\ recPalindrome(java.lang.String,\ int,\ int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
